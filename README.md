@@ -1,24 +1,14 @@
-# Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/egS6fnZAdzk
+# Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI 🔥🔥
 
-<img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432">
+## landing Page 
+![ss1](https://github.com/user-attachments/assets/9e1b5157-d16b-4687-b7a5-aac55ffe4099)
 
-### Make sure to create a `.env` file with following variables -
+## Dashboard
+![ss2](https://github.com/user-attachments/assets/e9d302e7-652d-42d0-9d76-1b0f6bc39b79)
 
-```
-DATABASE_URL=
-DIRECT_URL=
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+## Add Transaction With AI 
+![ss3](https://github.com/user-attachments/assets/b86f358b-7c2e-4f10-969f-10a912a96d96)
 
-GEMINI_API_KEY=
 
-RESEND_API_KEY=
 
-ARCJET_KEY=
-```
