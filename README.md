@@ -1,6 +1,6 @@
 # Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI 🔥🔥
 
-## landing Page 
+## Landing Page 
 ![ss1](https://github.com/user-attachments/assets/9e1b5157-d16b-4687-b7a5-aac55ffe4099)
 
 ## Dashboard
