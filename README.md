@@ -13,6 +13,14 @@ An AI-powered financial web app that brings together smart analytics, intelligen
 ![ss3](https://github.com/user-attachments/assets/b86f358b-7c2e-4f10-969f-10a912a96d96)
 
 
+Slip photos
+
+![SBI](https://github.com/user-attachments/assets/24cde55a-50ec-437c-9596-9b71838cefa6)
+![HDFC](https://github.com/user-attachments/assets/2250359b-c05b-459f-9467-7aee7b28985c)
+![HDFC 1](https://github.com/user-attachments/assets/9ccf145d-e1c5-4ea8-959e-1b199f707f4d)
+
+
+
 
 ## ✨ Features
 
